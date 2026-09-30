@@ -1,0 +1,4 @@
+name = "Zeen"
+grammar = "zeen"
+path_suffixes = ["zn"]
+line_comments = ["// "]
